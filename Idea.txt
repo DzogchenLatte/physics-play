@@ -1,0 +1,19 @@
+Experiment with a ball bouncing in a box
+
+MAJOR GOALS
+1.  Make a 3D graph of how distance changes over time depending on the starting angle
+2.  Make a 2D colored graph with x = time, y = starting angle, z = distance
+3.  Try swapping axes in #2
+
+
+Mini-milestones
+
+1.  Setup environment with simple physics engine
+2.  Render circle in middle of screen
+3.	Render bounding container (box)
+4.  Create launch function to simulate ball moving and bouncing off barrier
+5.  Store position data with desired frequency
+6.  Use simple chart / graph library
+7.  Get initial graph of distance over time from one moving ball
+8.  Run several simulations with angle increasing over time, and simulation time T
+9.  Construct graphs listed in MAJOR GOALS
