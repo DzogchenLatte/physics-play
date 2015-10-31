@@ -1,0 +1,16 @@
+{
+  "name": "physics-play",
+  "version": "1.0.0",
+  "description": "\"Billiard Balls and Boundaries\"",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DzogchenLatte/physics-play.git"
+  },
+  "author": "Andrew Decker",
+  "license": "MIT",
+  "homepage": "https://github.com/DzogchenLatte/physics-play#readme",
+  "dependencies": {
+    "matter-js": "^0.8.0"
+  }
+}
